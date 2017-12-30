@@ -1,5 +1,5 @@
 ---
-layout:     page
+layout:     none
 title:      About Me
 date:       2017-12-30 06:59:19
 summary:    about Vineet Kulkarni
@@ -17,8 +17,9 @@ thumbnail: avatar
 </div>
 {% include social_links.html %}
  </div>
-<div class="col-md-12 main content-panel">
-
+ 
+ 
 Hello,
 
 I am sure you are all eager to know about me. But that will have to wait. This page is still under construction.
+
