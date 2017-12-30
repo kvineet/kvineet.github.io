@@ -1,5 +1,5 @@
 ---
-layout:     none
+layout:     default
 title:      About Me
 date:       2017-12-30 06:59:19
 summary:    about Vineet Kulkarni
