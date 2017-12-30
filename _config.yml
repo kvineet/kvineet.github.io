@@ -4,7 +4,7 @@ email: vineet.kulkarni8@gmail.com
 description: "Software Engineer."
 baseurl: ""
 url: "http://kvineet.github.io/"
-title_description: "I am a Software Engineer. I have worked as Java developer for more that 4 years, experience in web applications, REST APIs and micro service architecture. My complete profile can be found in <a href=\"about.html\">About Me</a> page."
+title_description: "I am a Software Engineer. I have worked as Java developer for more that 4 years, experience in web applications, REST APIs and micro service architecture. My complete profile can be found in <a href=\"about\">About Me</a> page."
 title_image: "https://farm9.staticflickr.com/8554/29762891402_db4ce49313_z.jpg"
 google_analytics: "UA-84651125-1"
 disqus_account: kvineet
